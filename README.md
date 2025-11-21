@@ -289,7 +289,7 @@ pipeline {
     * Click **Build Now** to trigger the pipeline manually for the first time.
     * Monitor the execution through the **Stage View** or **Console Output**.
 
-<img src="diagrams/06.png">
+<img src="diagrams/05.png">
 
 4.  **Verify Deployment:**
     * After a successful build, your Flask application will be accessible at `http://<your-ec2-public-ip>:5000`.
